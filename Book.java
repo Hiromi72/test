@@ -5,8 +5,11 @@ public class Book {
 	public Book(String title, String author, int price){
 		this.title = title;
 		this.author = author;
-		this.price = price;]
-		]
-		public void disp(){
-			System.out.printlin();
-		}
+		this.price = price;
+	]
+	public void disp(){
+		System.out.printlin();
+	}
+	@Override
+	public String toString(){
+		return
